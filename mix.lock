@@ -1,0 +1,3 @@
+%{
+  "typelixir": {:hex, :typelixir, "0.1.0", "f553a48cf77b4991960f6ee8f409ffc1428af79c943ef52f0b07e7777952a6f1", [:mix], [], "hexpm", "4b81d94caa921847bb3495ace268d2b516247cf7e4039d0c86a1d299fda53c5f"},
+}
